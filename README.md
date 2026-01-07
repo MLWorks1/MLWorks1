@@ -114,8 +114,9 @@ My projects follow a **Production-First** mindset to ensure reproducibility and 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MLWorks1/MLWorks1/4321f988fb9f9cfa04d8012811b2708f27abfc18/Robot-Bot%203D.gif" width="200px" alt="Robot Bot 3D">
+  <img src="https://raw.githubusercontent.com/MLWorks1/MLWorks1/3b9609928bfac3303c132fe8be8034e273dc1772/Web%20Development.gif" width="200px" alt="Robot Bot 3D">
 </p>
+<img src="" alt="Web Development GIF">
 
 ---
 
