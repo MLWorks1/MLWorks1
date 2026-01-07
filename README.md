@@ -113,7 +113,7 @@ My projects follow a **Production-First** mindset to ensure reproducibility and 
 
 ## 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjs1381&layout=compact&theme=radical&hide_border=true" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=developerjs1381&layout=compact&theme=radical&hide_border=true](https://github.com/MLWorks1/MLWorks1/blob/f546e88059f4f48e55c525a7a4216d5c9c2df5d8/Web%20Development.gif)" />
 </p>
 
 ---
