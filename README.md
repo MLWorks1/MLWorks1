@@ -12,11 +12,18 @@
 ---
 
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MLWorks1/MLWorks1/4321f988fb9f9cfa04d8012811b2708f27abfc18/Robot-Bot%203D.gif" width="200px">
+</p>
+
 I am a **Machine Learning Engineer** focused on building end-to-end AI solutions. My expertise spans from deep mathematical modeling to deploying production-ready APIs. I bridge the gap between complex algorithms and business value.
 
 ---
 
 ## 🛠 Technical Ecosystem
+<p align="right">
+  <img src="https://github.com/MLWorks1/MLWorks1/blob/d20558c251c402b37e6acb2917f385fe7cef52b6/Sparkles%20Loop%20Loader%20ai.gif?raw=true" width="80px">
+</p>
 
 <table width="100%">
   <tr>
@@ -40,8 +47,6 @@ I am a **Machine Learning Engineer** focused on building end-to-end AI solutions
 ---
 
 ## 📂 Featured Projects
-
-
 
 Here is a curated list of my work, categorized by domain and technical complexity:
 
@@ -104,8 +109,6 @@ My projects follow a **Production-First** mindset to ensure reproducibility and 
 3.  **Scalable Serving:** Deploying models as containerized microservices.
 4.  **Monitoring:** Tracking drift and performance in real-time.
 
-
-
 ---
 
 ## 📊 GitHub Analytics
@@ -120,4 +123,3 @@ I am open to discussing **Open Source projects, Freelance opportunities, or Full
 
 - **Email:** `developerjs1381@gmail.com`
 - **LinkedIn:** [https://www.linkedin.com/in/abolfazl-chanbary-053454351/]
->
